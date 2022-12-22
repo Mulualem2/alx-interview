@@ -3,7 +3,7 @@
 
 
 def pascal_triangle(n):
-    """draws a pascal triangle 
+    """draws a pascal triangle
        and returns it as a list"""
     plist = []
 
